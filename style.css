@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+    background: #f2f6ff;
+}
+
+h1 {
+    color: #222;
+}
+
+input {
+    padding: 10px;
+    width: 220px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#weather,
+#forecast {
+    margin-top: 30px;
+}
